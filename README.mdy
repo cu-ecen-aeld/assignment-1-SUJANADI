@@ -1,0 +1,1 @@
+[![Build Status](https://github.com/SUJANADI/assignment-1-SUJANADI/actions/workflows/github-actions.yml/badge.svg)](https://github.com/SUJANADI/assignment-1-SUJANADI/actions/workflows/github-actions.yml)
